@@ -6,6 +6,6 @@ Efetuar testes rápidos com a API de Checkout Transparente do PagSeguro.
 
 Os arquivos envprod.php e envsand corresponde respectivamente aos ambientes de Produção e Sandbox.  
 
-Para efetuar um teste, basta inserir suas credenciais (Email PagSeguro e Token de integração)na variável $credenciais.
+Para efetuar um teste, basta inserir suas credenciais (Email PagSeguro e Token de integração) na variável $credenciais.
 
 Para obter seu token de integraço, acesse sua conta PagSeguro através do link: https://pagseguro.uol.com.br/preferencias/integracoes.jhtml
