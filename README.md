@@ -2,7 +2,7 @@
 
 Efetuar testes rápidos com a API de Checkout Transparente do PagSeguro.
 
-##Configurações básicas
+## Configurações básicas
 
 Os arquivos envprod.php e envsand corresponde respectivamente aos ambientes de Produção e Sandbox.  
 
